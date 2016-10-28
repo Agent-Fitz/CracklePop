@@ -12,8 +12,8 @@ Clone this repo using the green 'Clone or download' button at the top.
 ### Prerequisites
 
 Requires Julia-0.4.5 
+
 See: julialang.org to download the latest version of Julia.
-```
 
 ## Authors
 
