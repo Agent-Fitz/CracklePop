@@ -1,5 +1,10 @@
 # Project Title
 
+A minimal version of the CracklePop function written in the Julia language. 
+CracklePop: Prints "CracklePop" if a number is divisible by 3 and by 5;
+prints "Crackle" if it is divisible by 3 and not 5; 
+prints "Pop" if it is divisible by 5 and not 3; 
+prints the number itself if it is divisible by neither.
 One Paragraph of project description goes here
 
 ## Getting Started
