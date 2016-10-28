@@ -5,7 +5,6 @@ CracklePop: Prints "CracklePop" if a number is divisible by 3 and by 5;
 prints "Crackle" if it is divisible by 3 and not 5; 
 prints "Pop" if it is divisible by 5 and not 3; 
 prints the number itself if it is divisible by neither.
-One Paragraph of project description goes here
 
 ## Getting Started
 
@@ -13,8 +12,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
+Requires Julia-0.4.5 
+See: julialang.org
 ```
 Give examples
 ```
@@ -77,9 +76,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+@Agent-Fitz
 
 ## License
 
