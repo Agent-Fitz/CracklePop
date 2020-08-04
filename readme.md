@@ -18,7 +18,7 @@ See: julialang.org to download the latest version of Julia.
 
 ## Authors
 
-@Agent-Fitz
+@Fitz1987
 
 ## License
 
