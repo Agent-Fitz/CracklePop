@@ -1,6 +1,6 @@
 # CracklePop.jl
 
-A minimal version of the CracklePop function written in the Julia language. 
+A minimal version of the CracklePop function written in the Julia language, for practice.
 
 * prints "CracklePop" if a number is divisible by 3 and by 5;
 * prints "Crackle" if it is divisible by 3 and not 5; 
